@@ -1,4 +1,4 @@
-# STA208-Final
+# UC Davis STA208 Final Group Project
 
 This is code for STA208 Final. 
 
